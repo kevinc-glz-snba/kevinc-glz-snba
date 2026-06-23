@@ -115,7 +115,7 @@ NFC · Electrónica · Automatización · Programación embebida
 ---
 
 ## 📊 Estadísticas de GitHub
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinc-glz-snba&show_icons=true&theme=radical" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinc-glz-snba&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
