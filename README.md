@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Banner con GIF animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hola!+Soy+%F0%9F%92%A5+Kevin+Gonzalez+😁!;Ingeniero+en+Sistemas+Computacionales+%F0%9F%92%BB;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80;Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
-<!--
-**kevinc-glz-snba/kevinc-glz-snba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
+✨ Desarrollador apasionado por la **tecnología** y la **creatividad**.  
+🚀 Siempre aprendiendo nuevas herramientas para construir proyectos increíbles.  
+🎨 Me encanta combinar **código + diseño** para crear experiencias únicas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías & Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ffdd00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Proyectos Destacados
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Glz-Sba&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Glz-Sba&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+---
+
+## 📫 Conéctate conmigo
+<p align="center">
+  <a href="mailto:kevinc.glz.snba@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="[https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/kevin-chayane-gonzalez-sanabria-2367aa418/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/share/1GcDfSKnxU/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  ✨💻 <b>¡Gracias por visitar mi perfil!</b> 💻✨<br>
+  ☕ Código limpio, café fuerte y commits constantes 📝<br>
+  🚀 Que los bugs sean pocos y los pull requests abundantes! 🌟<br>
+</p>
