@@ -1,7 +1,10 @@
 <!-- Banner con GIF animado -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hola!+Soy+%F0%9F%92%A5+Kevin+Gonzalez+😁!;Ingeniero+en+Sistemas+Computacionales+ |+AI Developer+|+Full+Stack+Developer+%F0%9F%92%BB;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80;Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hola!+Soy+Kevin+Gonzalez+%F0%9F%91%8B;Ingeniero+en+Sistemas+Computacionales;AI+Developer+%7C+Full+Stack+Developer+%F0%9F%92%BB;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80;Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
