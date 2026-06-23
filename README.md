@@ -50,13 +50,13 @@ Sistema enfocado en integrar inteligencia artificial para automatización y asis
 
 **Tecnologías utilizadas:**
 - Python
-- Inteligencia Artificial
-- APIs
-- Procesamiento de datos
+- Inteligencia Artificial Claude
+- FastAPI
+- React
 - Desarrollo Full Stack
 
 🔗 Repositorio:
-[Social AI](https://github.com/Kevin-Glz-Sba)
+[Social AI]([https://github.com/Kevin-Glz-Sba](https://github.com/kevinc-glz-snba/socialai))
 
 ---
 
@@ -116,8 +116,8 @@ NFC · Electrónica · Automatización · Programación embebida
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Glz-Sba&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Glz-Sba&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Glz-Snba&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Glz-Snba&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
 ---
